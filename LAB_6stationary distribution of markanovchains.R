@@ -1,3 +1,5 @@
+#6. Write a R program for finding stationary distribution of markanovchains.
+
 # Load the markovchain package
 library(markovchain)
 
