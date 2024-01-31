@@ -1,3 +1,6 @@
+# 8. Write a R program for any visual representation of an object with creating graphs using graphic functions:
+# Plot(),Hist(),Linechart(),Pie(),Boxplot(),Scatterplots().
+
 #create a simple chart
 data = c(10,45,6,75,12,67,25,50,30)
 plot (data,type = "l", col="blue", xlab="x-axis", ylab="y-axis", main="linechart")
