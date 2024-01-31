@@ -1,3 +1,5 @@
+#5. Write a R program for calculating cumulative sums, and products minima maxima and calculus.
+
 # Create a sample vector
 values <- c(1, 2, 3, 4, 5)
 
