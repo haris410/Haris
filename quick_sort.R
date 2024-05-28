@@ -19,5 +19,4 @@ sorted_array = quick_sort(unsorted_array)
 cat("QUICK_SORT is in sorted Array:",sorted_array,"\n")
 
 
-......
  
