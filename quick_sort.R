@@ -17,3 +17,7 @@ quick_sort = function(arr)
 unsorted_array = c(9,5,7,3)
 sorted_array = quick_sort(unsorted_array)
 cat("QUICK_SORT is in sorted Array:",sorted_array,"\n")
+
+
+......
+ 
